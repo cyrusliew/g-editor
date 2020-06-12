@@ -1,3 +1,4 @@
+import { fetch } from 'node-fetch';
 import providers from 'oembed-providers';
 
 export async function getEmbed (url) {
