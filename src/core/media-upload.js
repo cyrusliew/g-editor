@@ -1,5 +1,5 @@
 
-import { Component, Fragment } from 'react';
+import React, { Component, Fragment } from 'react';
 import './media-library.scss';
 
 const { wp, lodash } = window;
